@@ -1,0 +1,32 @@
+W:\Программы\Мои\Работа\ГК АРМО\FindFile\FindFile\bin\Debug\FindFile.exe.config
+W:\Программы\Мои\Работа\ГК АРМО\FindFile\FindFile\bin\Debug\FindFile.exe
+W:\Программы\Мои\Работа\ГК АРМО\FindFile\FindFile\bin\Debug\FindFile.pdb
+W:\Программы\Мои\Работа\ГК АРМО\FindFile\FindFile\obj\Debug\FindFile.Form1.resources
+W:\Программы\Мои\Работа\ГК АРМО\FindFile\FindFile\obj\Debug\FindFile.Properties.Resources.resources
+W:\Программы\Мои\Работа\ГК АРМО\FindFile\FindFile\obj\Debug\FindFile.csproj.GenerateResource.cache
+W:\Программы\Мои\Работа\ГК АРМО\FindFile\FindFile\obj\Debug\FindFile.csproj.CoreCompileInputs.cache
+W:\Программы\Мои\Работа\ГК АРМО\FindFile\FindFile\obj\Debug\FindFile.exe
+W:\Программы\Мои\Работа\ГК АРМО\FindFile\FindFile\obj\Debug\FindFile.pdb
+W:\Программы\Мои\Работа\ГК АРМО\FindFile\FindFile\obj\Debug\FindFile.csprojAssemblyReference.cache
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест\FindFile\bin\Debug\FindFile.exe.config
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест\FindFile\bin\Debug\FindFile.exe
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест\FindFile\bin\Debug\FindFile.pdb
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест\FindFile\obj\Debug\FindFile.csprojAssemblyReference.cache
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест\FindFile\obj\Debug\FindFile.Form1.resources
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест\FindFile\obj\Debug\FindFile.FormSearch.resources
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест\FindFile\obj\Debug\FindFile.Properties.Resources.resources
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест\FindFile\obj\Debug\FindFile.csproj.GenerateResource.cache
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест\FindFile\obj\Debug\FindFile.csproj.CoreCompileInputs.cache
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест\FindFile\obj\Debug\FindFile.exe
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест\FindFile\obj\Debug\FindFile.pdb
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест c потоком\FindFile\bin\Debug\FindFile.exe.config
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест c потоком\FindFile\bin\Debug\FindFile.exe
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест c потоком\FindFile\bin\Debug\FindFile.pdb
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест c потоком\FindFile\obj\Debug\FindFile.csprojAssemblyReference.cache
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест c потоком\FindFile\obj\Debug\FindFile.Form1.resources
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест c потоком\FindFile\obj\Debug\FindFile.FormSearch.resources
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест c потоком\FindFile\obj\Debug\FindFile.Properties.Resources.resources
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест c потоком\FindFile\obj\Debug\FindFile.csproj.GenerateResource.cache
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест c потоком\FindFile\obj\Debug\FindFile.csproj.CoreCompileInputs.cache
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест c потоком\FindFile\obj\Debug\FindFile.exe
+W:\Программы\Мои\Работа\ГК АРМО\FindFile- тест c потоком\FindFile\obj\Debug\FindFile.pdb
